@@ -20,6 +20,14 @@ Os valores devem ser exibidos utilizando o formato R xxx xx, exemplo:
 1500.45 = R$ 1500.45
 
 ## Cadastra Usuário
-
+Cadastra um novo usuário com CPF, nome, data de nascimento e endereço
 
 ## Cadastra conta
+Cria uma nova conta associada a um usuário com os atributos agência e número da conta.
+O número da conta é gerado automaticamente de forma sequencial
+
+## Lista usuários
+Lista todos os usuários da base, mostrando: CPF e nome
+
+## Lista contas
+Lista todas as contas da base, mostrando: Número da conta, CPF e nome
